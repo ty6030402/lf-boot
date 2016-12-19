@@ -3,5 +3,7 @@ void test2(void)
 	int i;
 	i++;
 	i++;
-	return;
+    i++;
+    //branch	
+    return;
 }
