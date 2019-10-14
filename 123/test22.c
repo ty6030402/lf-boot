@@ -2,8 +2,8 @@ void test2(void)
 {
 	int i;
 	i++;
-	i++;
-	i++;//maset-1 change -1
-	i++;//maset-1 change -2
+	//maset change -1 dec
+	i++;//maset-1 change -1 add
+	i++;//maset-1 change -2 add
 	return;
 }
