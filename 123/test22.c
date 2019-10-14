@@ -5,5 +5,6 @@ void test2(void)
 	i++;
 	i++;//maset-1 change -1
 	i++;//maset-1 change -2
+	i--;//maset-1 change -3
 	return;
 }
